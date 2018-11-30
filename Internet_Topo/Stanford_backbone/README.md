@@ -1,0 +1,3 @@
+ - Read paper [Automatic_Test_Packet_Generation.pdf]()  and view this github: http://eastzone.github.io/atpg/ for more information
+ - [stanford_26_46.trf]() is create by Kaiyu Hou from this paper. I can't guarantee its correctness.
+ - raw files to create TRF are in RAW flod. 
